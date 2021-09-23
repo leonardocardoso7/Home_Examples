@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<house>
+  <title>T2, London</title>
+  <address>Greek Street, London W1D</address>
+  <price>975000</price>
+  <city>London</city>
+  <typology>T2</typology>
+  <body>A one-bedroom apartment offered in excellent condition is situated on the first floor of a beautifully restored grade II listed Georgian building which retains many of its original architectural features. This meticulous designed flat benefits from high ceiling, private roof terrace and a long lease.</body>
+  <map>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.980457873327!2d-0.13272958498570195!3d51.51357451807382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604d2c0db952d%3A0x52471b378266493f!2sGreek%20St%2C%20London%2C%20UK!5e0!3m2!1sen!2spt!4v1632394870981!5m2!1sen!2spt</map>
+</house>
+<house>
+  <title>T0, Soho</title>
+  <address>Rupert Street, Soho, London W1D</address>
+  <price>450000</price>
+  <city>Soho</city>
+  <typology>T0</typology>
+  <body>Located in the heart of vibrant Soho, this fantastic studio apartment is beautifully presented and offers well proportioned living space with stylish interiors.</body>
+  <map>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.094006357445!2d-0.13524458498572295!3d51.51149131822615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604d3ba1d8707%3A0xe28b45f3cced7cdb!2sRupert%20St%2C%20London%20W1D%2C%20UK!5e0!3m2!1sen!2spt!4v1632395166301!5m2!1sen!2spt</map>
+</house>
+<house>
+  <title>T1, London</title>
+  <address>Ingestre Court, Ingestre Place, London W1F</address>
+  <price>775000</price>
+  <city>London</city>
+  <typology>T1</typology>
+  <body>In the heart of Soho is this top floor, two bedroom apartment (510sq ft/47sq m) offering fantastic, far reaching views across the London skyline.</body>
+  <map>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.0135710695595!2d-0.13737718498574333!3d51.51296701811822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604d49cd86211%3A0x9115ff5978584b9f!2sIngestre%20Court%2C%2044a%20Ingestre%20Pl%2C%20London%20W1F%200JL%2C%20UK!5e0!3m2!1sen!2spt!4v1632395421348!5m2!1sen!2spt</map>
+</house>
+<house>
+  <title>T3</title>
+  <address>Meard Street, Soho W1F</address>
+  <price>4450000</price>
+  <city>Soho</city>
+  <typology>T3</typology>
+  <body>A once in a lifetime opportunity to acquire this stunning Grade Two star listed freehold townhouse on one of the most desirable streets in Soho. This rare early 18th century street was initially developed by John Meard Junior, a Master Carpenter who worked on many great London churches, including St Paul's Cathedral, with Sir Christopher Wren.</body>
+  <map>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.9970335838957!2d-0.13520088498572064!3d51.51327041809608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604d313b3855f%3A0xeec1d1f1899b540d!2sMeard%20St%2C%20London%2C%20UK!5e0!3m2!1sen!2spt!4v1632395621942!5m2!1sen!2spt</map>
+</house>
